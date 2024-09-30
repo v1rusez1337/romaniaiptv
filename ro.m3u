@@ -1,0 +1,239 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="TVR 1.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165179962.png" group-title="GENERAL", TVR 1 HD
+https://p5.stirilepe.net/tvr1hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="TVR 2 HD.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165179963.png" group-title="GENERAL", TVR 2 SD
+https://p5.stirilepe.net/tvr2sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="PRO TV.ro" tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165188467.png" group-title="GENERAL", PRO TV HD
+https://p5.stirilepe.net/protv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Antena 1.ro" tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165188468.png" group-title="GENERAL", ANTENA 1 HD
+https://p5.stirilepe.net/antena1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Prima TV.ro" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165188469.png" group-title="GENERAL", PRIMA TV RO
+https://p5.stirilepe.net/prima/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="B1 TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165179971.png" group-title="GENERAL", B1 TV
+https://p5.stirilepe.net/b1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Kanal D.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165207292.png" group-title="GENERAL", KANAL D
+https://p5.stirilepe.net/kanald/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Kanal D2.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165207293.png" group-title="GENERAL", KANAL D 2
+https://p5.stirilepe.net/kanald2hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="TVR 3.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799792/1173359844.png" group-title="GENERAL", TVR 3
+https://p5.stirilepe.net/tvr3sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Metropola TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799792/1173360346.webp" group-title="GENERAL", METROPOLA TV
+https://p5.stirilepe.net/metropolatvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="National TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799792/1173360347.png" group-title="GENERAL", NATIONAL TV
+https://p5.stirilepe.net/nationaltvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Antena Stars.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799792/1173360349.png" group-title="GENERAL", ANTENA STARS
+https://p5.stirilepe.net/antenastarssd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Smart TV HD.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799792/1173373945.png" group-title="GENERAL", SMART TV
+https://stream-aleph.m.ro/Aleph/Smartv.stream/media_1624011.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799792/1173388200.png" group-title="GENERAL", MIREASA TV
+https://stream1.antenaplay.ro/live/MireasaExtra/chunklist.m3u8
+#EXTINF: -1 tvg-id="Digi Sport 1.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799793/1173374511.webp" group-title="SPORT", DIGI SPORT 1
+https://playertv.biz/tv2/digisport1hd.php
+#EXTINF: -1 tvg-id="Digi Sport 2.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799793/1173374512.png" group-title="SPORT", DIGI SPORT 2
+https://playertv.biz/tv2/digisport2hd.php
+#EXTINF: -1 tvg-id="Digi Sport 3.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799793/1173374513.png" group-title="SPORT", DIGI SPORT 3
+https://playertv.biz/tv2/digisport3hd.php
+#EXTINF: -1 tvg-id="Eurosport 1.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165206132.png" group-title="SPORT", EUROSPORT 1
+https://p5.stirilepe.net/eurosportsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Eurosport 2.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165206133.png" group-title="SPORT", EUROSPORT 2
+https://p5.stirilepe.net/eurosport2sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799793/1173388344.png" group-title="SPORT", FIFA CHANNEL
+https://fee89d45.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzX0hMUw/2b462cb6-8b81-4227-b3a4-f2784c5d9e14/2.m3u8
+#EXTINF: -1 tvg-id="Prima Sport 1.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165185950.png" group-title="SPORT", PRIMA SPORT 1
+https://p5.stirilepe.net/primasport1hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Prima Sport 2.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165185962.png" group-title="SPORT", PRIMA SPORT 2
+https://p5.stirilepe.net/primasport2sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Prima Sport 3.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165185963.png" group-title="SPORT", PRIMA SPORT 3
+https://p5.stirilepe.net/primasport3sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Pro Arena.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165179970.png" group-title="SPORT", PROARENA
+https://p5.stirilepe.net/proarenahd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Sport Extra.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748992/1165185965.png" group-title="SPORT", SPORT EXTRA
+https://p5.stirilepe.net/sportextrahd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="HBO.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165179964.png" group-title="FILME", HBO 1
+https://p5.stirilepe.net/hbohd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="HBO 2.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165179965.png" group-title="FILME", HBO 2
+https://p5.stirilepe.net/hbo2sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="HBO 3.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165179966.png" group-title="FILME", HBO3
+https://p5.stirilepe.net/hbo3sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Cinemaraton.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165179967.png" group-title="FILME", CINEMARATON RO
+https://p5.stirilepe.net/cinemaratonsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="FILMCAFE.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165179968.png" group-title="FILME", FILM CAFE
+https://p5.stirilepe.net/filmcafesd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Comedy Central.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165179969.png" group-title="FILME", COMEDY CENTRAL
+https://p5.stirilepe.net/comedycentralsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Acasa HD.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165188512.png" group-title="FILME", ACASA TV
+https://p5.stirilepe.net/acasahd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Acasa Gold.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165188513.png" group-title="FILME", ACASA TV GOLD
+https://p5.stirilepe.net/acasagold/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Cinemax.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165205801.png" group-title="FILME", CINEMAX 1
+https://p5.stirilepe.net/cinemaxhd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Cinemax 2.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165205802.png" group-title="FILME", CINEMAX 2
+https://p5.stirilepe.net/cinemax2sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Pro Cinema.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165206076.png" group-title="FILME", PROCINEMA
+https://p5.stirilepe.net/procinemasd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Warner TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165206130.png" group-title="FILME", WARNER TV
+https://p5.stirilepe.net/warner/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Prima 4K.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748993/1165206131.png" group-title="FILME", PRIMA COMEDY
+https://p5.stirilepe.net/primacomedysd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Epic Drama.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799794/1173360344.svg" group-title="FILME", EPIC DRAMA
+https://p5.stirilepe.net/epicdramasd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="AXN.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799794/1173370435.png" group-title="FILME", AXN
+https://p5.stirilepe.net/axnsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="TV1000.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799794/1173374517.png" group-title="FILME", TV1000
+https://playertv.biz/tv2/tv1000.php
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799794/1173388272.png" group-title="FILME", FILME INDIENE
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799794/1173388273.png" group-title="FILME", RAKUTEN TV
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF: -1 tvg-id="Film Now.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799794/1173388343.png" group-title="FILME", FILM NOW
+https://tvron.tv/inc/playertv.php?tv=filmnow
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1166023379.png" group-title="MUZICA", AtomicAcademyTV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1166023381.png" group-title="MUZICA", AtomicTV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF: -1 tvg-id="Balkanika TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165179976.png" group-title="MUZICA", BALKAN MUSIC TV
+https://p5.stirilepe.net/balkanmusicsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173388271.png" group-title="MUZICA", BUSUIOC TV
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF: -1 tvg-id="Etno TV.ro" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165188514.png" group-title="MUZICA", ETNO TV RO
+https://p5.stirilepe.net/etnotvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Favorit.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165179974.png" group-title="MUZICA", FAVORIT TV
+https://p5.stirilepe.net/favorittvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173374516.webp" group-title="MUZICA", HIT MUSIC
+https://playertv.biz/tv2/hitmusic.php
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173373929.png" group-title="MUZICA", IMPACT TV DANCE
+https://online.tvimpact.live/hls/dancetv-78959.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173373629.png" group-title="MUZICA", IMPACT TV MANELE
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF: -1 tvg-id="Kiss TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173388346.png" group-title="MUZICA", KISS TV RO
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173388345.png" group-title="MUZICA", LIRA TV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/chunklist_w1499663749.m3u8
+#EXTINF: -1 tvg-id="Magic TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165179975.png" group-title="MUZICA", MAGIC TV
+https://p5.stirilepe.net/magictv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Mooz Dance.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173388347.png" group-title="MUZICA", MOOZ DANCE
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance3613748.ts
+#EXTINF: -1 tvg-id="Mooz Hits.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173388356.png" group-title="MUZICA", MOOZ HITS
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF: -1 tvg-id="Mooz HD.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173373348.png" group-title="MUZICA", MOOZ RO
+https://rtmp.digitalbroadcast.ro/moozro/moozro3612600.ts
+#EXTINF: -1 tvg-id="MTV 00s.ro" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165188516.png" group-title="MUZICA", MTV 2000
+https://p5.stirilepe.net/mtv00sd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="MTV Europe.ro" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165188515.png" group-title="MUZICA", MTV GENERAL
+https://p5.stirilepe.net/mtveuropesd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Music Channel.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173374515.png" group-title="MUZICA", MUSICCHANNEL
+https://playertv.biz/tv2/musicchannelro.php
+#EXTINF: -1 tvg-logo="https://graph.facebook.com/NRG91/picture?width=200&height=200" group-title="MUZICA", NRG91 Grecia
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF: -1 tvg-id="Party Mix.ro" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165190225.png" group-title="MUZICA", PARTY MIX TV
+https://p5.stirilepe.net/partymixsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Rock TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1166034259.png" group-title="MUZICA", RockTV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF: -1 tvg-id="Taraf TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173360353.jpg" group-title="MUZICA", TARAF TV
+https://p5.stirilepe.net/taraftvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173360352.png" group-title="MUZICA", TRADITIONAL TV
+https://p5.stirilepe.net/traditionaltvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="UTV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173374514.webp" group-title="MUZICA", UTV
+https://playertv.biz/tv2/utv.php
+#EXTINF: -1 tvg-id="ZU TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1165179973.png" group-title="MUZICA", ZU TV
+https://p5.stirilepe.net/zutvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173410900.png" group-title="MUZICA", TEZAUR
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF: -1 tvg-id="Discovery Channel.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165185966.png" group-title="DOCUMENTARE", DISCOVERY CHANNEL RO
+https://p5.stirilepe.net/discoverysd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="The Fishing and Hunting Channel.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165186841.png" group-title="DOCUMENTARE", PESCUIT SI VANAT RO
+https://p5.stirilepe.net/fishingandhuntingsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Nat Geo WILD.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165186861.png" group-title="DOCUMENTARE", NAT GEO WILD
+https://p5.stirilepe.net/natgeowildsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Nat Geo WILD.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165186862.png" group-title="DOCUMENTARE", NAT GEO RO
+https://p5.stirilepe.net/natgeo/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="TLC.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165186869.png" group-title="DOCUMENTARE", TLC RO
+https://p5.stirilepe.net/tlcsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="BBC Earth.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165204290.png" group-title="DOCUMENTARE", BBC EARTH
+https://p5.stirilepe.net/bbcearthsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="History.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165204291.png" group-title="DOCUMENTARE", HISTORY RO
+https://p5.stirilepe.net/historychannelsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="E! Entertainment.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6749080/1165204292.png" group-title="DOCUMENTARE", E TV
+https://p5.stirilepe.net/entertainment/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Viasat Explore.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799796/1173370436.png" group-title="DOCUMENTARE", VIASAT EXPLORER
+https://p5.stirilepe.net/viasatexploresd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Viasat History.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799796/1173370437.svg" group-title="DOCUMENTARE", VIASAT HISTORY
+https://p5.stirilepe.net/viasathistorysd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="TV Paprika.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799796/1173373346.svg" group-title="DOCUMENTARE", TV PAPRIKA
+https://p5.stirilepe.net/tvpaprika/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Digi World.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799796/1173374103.png" group-title="DOCUMENTARE", DIGI WORLD
+https://playertv.biz/tv2/digiworld.php
+#EXTINF: -1 tvg-id="Digi Animal World.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799796/1173374509.png" group-title="DOCUMENTARE", DIGI ANIMAL WORLD
+https://playertv.biz/tv2/digianimalworld.php
+#EXTINF: -1 tvg-id="Digi Life.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799796/1173374510.png" group-title="DOCUMENTARE", DIGI LIFE
+https://playertv.biz/tv2/digilife.php
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6754283/1166011928.png" group-title="RELIGIOS", AngelusTV
+https://transmisiuni.ro/media/oracatolica/playlist.m3u8
+#EXTINF: -1 tvg-id="Trinitas TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6754283/1166040710.png" group-title="RELIGIOS", TrinitasTV
+https://p5.stirilepe.net/trinitastvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Prima News.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165179972.png" group-title="STIRI", PRIMA NEWS
+https://p5.stirilepe.net/primanewssd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Digi 24.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165191233.png" group-title="STIRI", DIGI 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF: -1 tvg-id="Profit News TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6754284/1166034256.jpeg" group-title="STIRI", PROTVNews
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF: -1 tvg-id="România TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6754284/1166034263.png" group-title="STIRI", RomaniaTV
+https://www.romaniatv.net/live
+#EXTINF: -1 tvg-id="Euronews.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6754284/1166042045.png" group-title="STIRI", EURONEWS RO
+https://p5.stirilepe.net/euronewsrosd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Antena 3 CNN.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799798/1173360350.png" group-title="STIRI", ANTENA 3 CNN
+https://p5.stirilepe.net/antena3hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Realitatea Plus.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799798/1173360351.png" group-title="STIRI", REALITATEA PLUS
+https://p5.stirilepe.net/realitateaplussd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="BBC World News.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6754284/1166042044.png" group-title="INTERNATIONAL", BBC NEWS
+https://p5.stirilepe.net/bbcworldnewssd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="TVE.ro" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="INTERNATIONAL", TVE 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF: -1 tvg-id="24 Mix Teleshop.ro" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="INTERNATIONAL", 24 H ESPANA
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+#EXTINF: -1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="INTERNATIONAL", SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="INTERNATIONAL", 3 CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF: -1 tvg-id="Rai 1.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799799/1173370438.png" group-title="INTERNATIONAL", RAI 1
+https://p5.stirilepe.net/rai1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Rai 3.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799799/1173373345.png" group-title="INTERNATIONAL", RAI 3
+https://p5.stirilepe.net/rai3/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799799/1173430903.png" group-title="INTERNATIONAL", 3/24 CAT
+https://directes-tv-int.ccma.cat/live-content/canal324-hls/bitrate_1.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799989/1173345875.jpg" group-title="FILME ONLINE", FURIA
+https://vod.cf.dmcdn.net/sec2(DiduKWCyTn8q4ZtHjLiip-zn6trVRkggTUoY8cusx0jcnsMu1OsVmAF6_uAH4xWnHHwkrykeYfBo3y9wK40wmq4V9OdpQx2mtgueG9l3Xn2uHj26xramb85h7dyxbCWqNjV3LhL-IYtyKDUOHhPqKLYXpq5BT_5iSh6y-8g35vQ)/video/681/429/527924186_mp4_h264_aac_hq_4.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800191/1173360354.png" group-title="DESENE ANIMATE", BOOMERANG
+https://p5.stirilepe.net/cartoonito-boomerang/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800191/1173360355.webp" group-title="DESENE ANIMATE", CARTOON NETWORK
+https://p5.stirilepe.net/cartoonnetworksd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Disney Channel.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800191/1173360434.jpg" group-title="DESENE ANIMATE", DISNEY CHANNEL
+https://p5.stirilepe.net/disneychannelsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800191/1173388201.webp" group-title="DESENE ANIMATE", DESENE VECHI
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1171135282.m3u8
+#EXTINF: -1 tvg-id="ARD.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800458/1173410896.jpg" group-title="REGIONAL", ARDEAL TV
+https://lon.rtsp.me/57M5WuGHZ8ct_HO71mv5NQ/1716915725/hls/ETKaK9b9.m3u8?ip=188.26.221.202
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1166023382.png" group-title="REGIONAL", BanatTV
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173317548.png" group-title="REGIONAL", BucovinaTV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1165199930.png" group-title="REGIONAL", IASI TV LIFE
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800458/1173410899.png" group-title="REGIONAL", JURNAL TV
+https://live2.cdn.jurnaltv.md/JurnalTV_HD/tracks-v2a1/2024/05/28/16/07/56-10000.ts?token=ceb1972f5a56ac15196ddb10902d6d16b6c63f70
+#EXTINF: -1 tvg-id="Moldova TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748991/1166042043.png" group-title="REGIONAL", MOLDOVA 1
+https://p5.stirilepe.net/moldovatvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="Moldova TV.ro" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799792/1173360348.png" group-title="REGIONAL", MOLDOVA 1
+https://p5.stirilepe.net/moldovatvsd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="tv8.md" tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800458/1173410898.png" group-title="REGIONAL", MOLDOVA 8
+https://live2.cdn.tv8.md/TV7/tracks-v2a1/2024/05/28/16/05/54-10000.ts?token=92204da2f1a96042ee9679a7edf954ae6752c8e2
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800458/1173410897.jpg" group-title="REGIONAL", NORD TV
+https://netstreaming.eu/nordtv.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800458/1173410895.webp" group-title="REGIONAL", PLOIESTI TV
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6799795/1173373349.png" group-title="REGIONAL", ROTV VALENCIA
+https://rotv.romediavalencia.com:3839/live/rotvlive-23946.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ac67d730-1cef-11ef-848f-ff9f3d1e92bc/6800458/1173410901.png" group-title="REGIONAL", TELEM IASI
+https://tv.streambox.ro/hls/telem/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a7a82e30-1518-11ef-a9ea-ddbba35132ac/6748994/1166034272.png" group-title="REGIONAL", TeleMBotosani
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
